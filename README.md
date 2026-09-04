@@ -32,4 +32,4 @@ Developing this project provided hands-on experience in building an e-commerce s
 
 ## 📸 Website Showcase
 
-![Online Retail Store Management System](website-showcase.png)
+![Online Retail Store Management System](website-showcase.jpg)
